@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="bg-circles" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1053 1041" style="enable-background:new 0 0 1053 1041;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;fill:url(#Oval_2_);enable-background:new    ;}
+	.st1{opacity:0.2;fill:url(#Oval_3_);enable-background:new    ;}
+	.st2{fill:#F01F7A;}
+	.st3{fill:#FFB2D3;fill-opacity:0.9;}
+</style>
+<linearGradient id="Oval_2_" gradientUnits="userSpaceOnUse" x1="398.1285" y1="649.4931" x2="399.7987" y2="648.4566" gradientTransform="matrix(1024 0 0 -1024 -408177 664969)">
+	<stop  offset="0" style="stop-color:#F8D1E8"/>
+	<stop  offset="0" style="stop-color:#F8D1E8"/>
+	<stop  offset="1" style="stop-color:#EAE8FE"/>
+</linearGradient>
+<circle id="Oval" class="st0" cx="512" cy="512" r="512"/>
+<linearGradient id="Oval_3_" gradientUnits="userSpaceOnUse" x1="398.031" y1="649.5892" x2="399.7011" y2="648.5527" gradientTransform="matrix(819 0 0 -819 -326280 532026)">
+	<stop  offset="0" style="stop-color:#F8D1E8"/>
+	<stop  offset="0" style="stop-color:#F8D1E8"/>
+	<stop  offset="1" style="stop-color:#EAE8FE"/>
+</linearGradient>
+<circle id="Oval_1_" class="st1" cx="511.5" cy="511.5" r="409.5"/>
+<circle id="Oval-Copy-11" class="st2" cx="251" cy="303" r="15"/>
+<circle id="Oval-Copy-12" class="st2" cx="988.5" cy="632.5" r="4.5"/>
+<circle id="Oval-Copy-12_1_" class="st2" cx="1048.5" cy="372.5" r="4.5"/>
+<circle id="Oval-Copy-13" class="st3" cx="284.5" cy="1007.5" r="33.5"/>
+<circle id="Oval-Copy-14" class="st3" cx="541.5" cy="318.5" r="6.5"/>
+<circle id="Oval-Copy-14_1_" class="st3" cx="462.5" cy="822.5" r="6.5"/>
+<circle id="Oval-Copy-14_2_" class="st3" cx="101.5" cy="578.5" r="6.5"/>
+</svg>
